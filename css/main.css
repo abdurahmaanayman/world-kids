@@ -1,6 +1,8 @@
 /****add to javascript ****/
 
-
+body{
+    background-color: whitesmoke;
+}
 
 
 /*======================================NAvigator=================================*/
@@ -174,6 +176,7 @@
 }
 
 /***/.my-cotainer-overlay .overlay .hero h1{
+    font-family: 'Marhey', cursive;
     font-size: 4.5rem;
     line-height: 1.2;
     color: beige;
@@ -294,6 +297,7 @@
     font-weight: bolder;
     margin-top: 18px;
     margin-bottom: 18px;
+    font-family: 'Marhey', cursive;
 
 }
 .up-welcome .son-welcome .wel-log2 .son-wel-log2 span hr{
@@ -308,10 +312,14 @@
     margin-right: 10px;
     font-family: revert;
     font-size: large;
+    font-family: 'El Messiri', sans-serif;
 }
 .up-welcome .son-welcome .wel-log2 .son-wel-log2  p span{
     font-size: larger;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'El Messiri', sans-serif;
+    font-family: 'Marhey', cursive;
+
 }
 .up-welcome .son-welcome .wel-log2 .son-wel-log2  p i{
     animation: move 1s infinite;
@@ -371,6 +379,8 @@
     margin-top: 100px;
     font-size: xx-large;
     font-family: sans-serif;
+    font-family: 'Marhey', cursive;
+
 }
 .up-salon .son-salon .goal-salon hr{
     margin: 20px auto;
@@ -379,9 +389,17 @@
     height: 2px;
     color: #ea697f;
 }
-.up-salon .son-salon .goal-salon p, h3{
+.up-salon .son-salon .goal-salon p{
     text-align: center;
-    margin-top: 20px;
+    margin-top: 20px; 
+    font-family: 'El Messiri', sans-serif;
+
+}
+.up-salon .son-salon .goal-salon h3{
+    text-align: center;
+    margin-top: 20px; 
+    font-family: 'Rakkas', cursive;
+
 }
 /***********************************************************************************************************/
 /***********************our-products"><div class="son-products**********************************************/
@@ -397,6 +415,8 @@
 .our-products .son-products h2{
     text-align: center;
     margin-bottom: 30px;
+    font-family: 'Marhey', cursive;
+
 }
 .our-products .son-products hr{
     width: 20%;
@@ -410,6 +430,8 @@
     direction: rtl;
     font-size: x-large;
     margin-bottom: 30px;
+    font-family: 'El Messiri', sans-serif;
+
 }
 .our-products .son-products .up-itemproduct{
     display: grid;
@@ -473,6 +495,8 @@
 }.our-products .son-products button a{
     text-decoration: none;
     color: aliceblue;
+    font-family: 'El Messiri', sans-serif;
+
 }
 
 
@@ -536,6 +560,8 @@
 }
 .my-footer .son-myfooter .one .contact ul{
     list-style: none;
+    font-family: 'El Messiri', sans-serif;
+
 }
 .my-footer .son-myfooter .one .contact ul li i{
 
@@ -599,6 +625,8 @@
     font-size: x-large;
     margin: 10px;
     padding-bottom: 15px;
+    font-family: 'Rakkas', cursive;
+    padding: 20px;
     
 }
 
@@ -643,6 +671,8 @@
     color: beige;
     text-transform: capitalize;
     transition: .8s;
+    font-family: 'Marhey', cursive;
+
 }
 .my-cotainer-overlay2 .overlay .hero h1:hover{
     color: #ea697f;
@@ -706,6 +736,8 @@ height: 500px;
 .first-place .row2 .adress{
     direction: rtl;
     padding: 30px;
+    font-family: 'Marhey', cursive;
+
 }
 
 .first-place .row2 .adress p span{
@@ -714,6 +746,8 @@ height: 500px;
     font-family: fantasy;
     font-weight: bolder;
     line-height: 2.5rem;
+    font-family: 'Marhey', cursive;
+
 }
 .first-place .row2 .logo{
     background-image: url(../img/background/98c55acc-feab-48f9-9bc8-c9d5b2e024ae.jpg);
@@ -751,6 +785,8 @@ height: 500px;
     letter-spacing: 2px;
     font-weight: bold;
     color:antiquewhite;
+    font-family: 'Marhey', cursive;
+
 }
 .cointainer-fixed .son hr{
     width: 90%;
@@ -760,6 +796,7 @@ height: 500px;
 }
 .cointainer-fixed .son h3{
     color: #ea697f;
+    font-family: 'Rakkas', cursive;
 }
 /****************************************/
 /**********second **************/
@@ -785,6 +822,8 @@ height: 500px;
 .second-place .row2 .adress{
     direction: rtl;
     padding: 30px;
+    font-family: 'Marhey', cursive;
+
 }
 .second-place .row2 .adress p span{
     width: 100px;
@@ -792,6 +831,8 @@ height: 500px;
     font-family: fantasy;
     font-weight: bolder;
     line-height: 2.5rem;
+    font-family: 'Marhey', cursive;
+
 }
 .second-place .row2 .logo{
     background-image: url(../img/background/vintage\ barber\ shop.jpg);
@@ -832,6 +873,8 @@ height: 500px;
     color: beige;
     text-transform: capitalize;
     transition: .8s;
+    font-family: 'Marhey', cursive;
+
 }
 .my-cotainer-overlay3 .overlay .hero h1:hover{
     color: #ea697f;
@@ -905,10 +948,13 @@ height: 500px;
 
 }
 .gallary-our-massge h3{
+    text-align: center;
     color: #ea697f;
     font-family: revert;
     font-size: xx-large;
     margin-bottom: 30px;
+    font-family: 'Marhey', cursive;
+
 
 }
 .gallary-our-massge hr{
@@ -934,12 +980,15 @@ height: 500px;
     left: 10%;
     right: 10%;
     font-family: inherit;
+    font-family: 'El Messiri', sans-serif;
+
 }
 .gallary-our-massge .up-aboat .goal{
     position: relative;
     text-align: center;
     padding: 20px;
     height: 150px;
+    font-family: 'Rakkas', cursive;
 }
 .gallary-our-massge .up-aboat .goal h4{
     position: absolute;
@@ -980,6 +1029,8 @@ height: 500px;
     color: beige;
     text-transform: capitalize;
     transition: .8s;
+    font-family: 'Marhey', cursive;
+
 }
 .my-cotainer-overlay .overlay4 .hero p{
     line-height: 3.5rem;
@@ -988,6 +1039,9 @@ height: 500px;
     font-size: larger;
     font-family: fangsong;
     font-weight: bolder;
+    font-family: 'Marhey', cursive;
+
+    
 }
 .my-cotainer-overlay .overlay4 .hero h1:hover{
     color: #ea697f;
@@ -1034,6 +1088,8 @@ height: 500px;
     font-size: xx-large;
     letter-spacing: 3px;
     color: #f3f6ff;
+    font-family: 'Marhey', cursive;
+
 }
 
 .up-healthy .son-healthy .guide2 h2{
@@ -1042,6 +1098,8 @@ height: 500px;
     font-size: xx-large;
     letter-spacing: 3px;
     color: #f3f6ff;
+    font-family: 'Marhey', cursive;
+
 }
 .up-healthy .son-healthy .guide1 hr{
     margin: 20px auto; 
@@ -1060,6 +1118,8 @@ height: 500px;
     word-spacing: 1px;
     font-weight: bold;
     line-height: 3rem;
+    font-family: 'El Messiri', sans-serif;
+
 }
 
 
@@ -1103,6 +1163,8 @@ height: 500px;
     position: absolute;
     top: 35%;
     left: 35px;
+    font-family: 'Marhey', cursive;
+
 
 }
 .up-my-teamss .son-my-teamss .place p{
@@ -1112,7 +1174,9 @@ height: 500px;
     color: aliceblue;
     font-family: fantasy;
     font-weight: bold;
-    font-size: x-large
+    font-size: x-large;
+    font-family: 'El Messiri', sans-serif;
+
 
 }
 
@@ -1156,8 +1220,14 @@ height: 500px;
     padding: 50px;
 
 }
+.up-question .son-question h2{
+    font-family: 'Marhey', cursive;
+
+}
 .up-question .son-question p{
     font-size: x-large;
     letter-spacing: 1px;
+    font-family: 'El Messiri', sans-serif;
+
 }
 /**********************************************************************************************************
